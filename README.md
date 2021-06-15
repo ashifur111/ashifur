@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashifurrahman
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on github
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Github
 - 📫 You can reach me on admin@codermahdy.com 
 
 <!---
