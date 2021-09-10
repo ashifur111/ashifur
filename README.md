@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashifur111
+- 👋 Hi, I’m Ashifur
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Github
